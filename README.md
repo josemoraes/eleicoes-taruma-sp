@@ -1,2 +1,2 @@
-# eleicoes-taruma-sp
+# Eleições 2020: Tarumã-SP
 Estou desenvolvendo um estudo para um projeto pessoal de Ciência de Dados com o tema "Eleições 2020 em Tarumã - SP", gostaria de pedir a ajuda de vocês para compartilhamento e preenchimento do formulário abaixo. Vai ficar bacana se conseguirmos fazer este formulário chegar em todos os bairros da cidade de Tarumã. Com base na participação da população eu vou testar a viabilidade de lançar um Aplicativo gratuito para dar transparência nos resultados em Pesquisa de Intenção de Voto nas próximas eleições.
